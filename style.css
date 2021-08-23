@@ -1,0 +1,107 @@
+
+
+body {
+  font-family: 'Red Hat Display', sans-serif;
+  text-align: center;
+  font-size: 11px;
+  margin: 0;
+  line-height: 1.5;
+  background-color: hsl(225, 100%, 94%);
+}
+
+p {
+  font-size: 14px;
+}
+
+.First-Container {
+position: relative;
+}
+
+.everything{
+  border-radius: 15px;
+  background-color: hsl(225, 100%, 98%);
+  position: absolute;
+  top: 150px;
+  left: 40%;
+}
+
+.new-width {
+  width: 350px;
+}
+
+.img-1 {
+  border-radius: 15px 15px 0 0;
+}
+
+.Third-Container {
+  border-radius: 15px;
+  background-color: #eaeffa;
+  width: 290px;
+  margin: auto;
+  margin-bottom: 40px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+color: hsl(228, 45%, 44%);
+}
+
+.text {
+width: 280px;
+margin: auto;
+margin-bottom: 40px
+}
+
+.image-2 {
+float: left;
+margin-left: 15px;
+margin-right: 15px;
+}
+
+.bold-1 {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.text-2 {
+  text-align: left;
+  padding-left: 65px;
+  margin: 0 auto;
+}
+.flut {
+  text-align: right;
+  margin: 0;
+  display: inline;
+  position: absolute;
+  left: 250px;
+  bottom:  180px;
+}
+
+.final {
+  margin: 30px auto;
+
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: sans-serif;
+  color: #ffffff;
+  font-size: 14px;
+  background: hsl(245, 75%, 52%);
+  padding: 10px 80px 10px 80px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: hsl(223, 47%, 23%);
+  text-decoration: none;
+}
